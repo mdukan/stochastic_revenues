@@ -1,5 +1,5 @@
 # Stochastic electricity price and wind feed-in 
-The main Matlab script for running the model is called `ElecPriceSimWind_2020_p`. The script calls several functions needed to run the simulation, which have to be placed in the same folder as the main script. The data package `data_package_model_fin_2` contains data on: 
+The main Matlab script for running the model is called `ElecPriceSimWind_2020_p`. The script calls several functions needed to run the simulation, which have to be placed in the same folder as the main script (therefore it is best to download all the files at once). The data package `data_package_model_fin_2` contains data on: 
 - installed capacity projections for solar PV and onshore wind interpolated on a yearly level (from TYNDP) 
 - electricity prices from the start 2011 until the end of 2020 
 - wind and solar PV feed-in from the start 2011 until the end of 2020 
